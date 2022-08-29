@@ -1,1 +1,1 @@
-# bealjar-javascript-dasar
+# belajar-javascript-dasar
